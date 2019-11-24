@@ -1,6 +1,12 @@
 # HelpingHand
 > Projeto para a disciplina de Análise de sistemas.
 
+# Informações sobre o projeto:
+
+- [Folder](files/folder.pdf)
+- [Projeto](files/projeto.pdf)
+- [Prototipação](Prototipo.md)
+
 # Resumo
 
 Helping Hand é uma plataforma desenvolvida para conscientização e o crescimento da acessibilidade no mundo, informando o quão acessível é um local e permitindo que os usuários colaborem com críticas anônimas.
